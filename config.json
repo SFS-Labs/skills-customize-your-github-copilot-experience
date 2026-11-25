@@ -10,54 +10,41 @@
       "title": "Python Basics",
       "description": "Variables, data types, conditionals, and loops",
       "path": "assignments/python-basics",
-      "dueDate": "2026-10-11",
-      "attachments": [
-        {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
-        }
-      ]
+      "dueDate": "2025-07-15",
+      "attachments": [{"name": "Starter Code", "file": "starter-code.py", "type": "python"}]
     },
     {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
       "path": "assignments/games-in-python",
-      "dueDate": "2026-10-26"
+      "dueDate": "2025-09-01"
     },
     {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
       "path": "assignments/python-classes",
-      "dueDate": "2026-11-05",
-      "attachments": [
-        {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
-        }
-      ]
+      "dueDate": "2025-08-05",
+      "attachments": [{"name": "Starter Code", "file": "starter-code.py", "type": "python"}]
     },
     {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
       "path": "assignments/data-analysis",
-      "dueDate": "2026-12-09",
+      "dueDate": "2025-07-29",
       "attachments": [
-        {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
-        },
-        {
-          "name": "Sample Dataset",
-          "file": "data.csv",
-          "type": "csv"
-        }
+        {"name": "Starter Code", "file": "starter-code.py", "type": "python"},
+        {"name": "Sample Dataset", "file": "data.csv", "type": "csv"}
       ]
+    },
+    {
+      "id": "loops-practice",
+      "title": "Loop Practice",
+      "description": "Practice for and while loops with short exercises",
+      "path": "assignments/loops-practice",
+      "dueDate": "2025-09-15"
     }
   ]
 }
