@@ -2,28 +2,32 @@
 
 ## 🎯 Objective
 
-Practice using `for` and `while` loops to solve small, concrete problems.
+Practice `for` and `while` loops with short, focused exercises.
 
 ## 📝 Tasks
 
-### 🛠️ Count with a For Loop
+### 🛠️ Count with a for loop
 
 #### Description
-Print the numbers from 1 to 10, then print only the even numbers.
+Print the numbers from 1 through 10 and their squares.
 
 #### Requirements
 Completed program should:
 
-- Use a `for` loop.
-- Print the requested values in order.
+- Use a `for` loop with `range()`.
+- Print one line per number.
 
-### 🛠️ Repeat with a While Loop
+### 🛠️ Repeat with a while loop
 
 #### Description
-Ask for a number and count down to zero using a `while` loop.
+Ask for a number and count down to zero.
 
 #### Requirements
 Completed program should:
 
-- Stop at zero.
-- Avoid an infinite loop.
+- Use a `while` loop.
+- Stop cleanly at zero.
+
+### 🛠️ Reflect
+
+Write one sentence explaining when a `for` loop is clearer than a `while` loop.
