@@ -19,3 +19,14 @@ Completed program should:
 - Track incorrect guesses remaining.
 - End when the word is guessed or attempts are exhausted.
 - Display win or lose messages.
+
+### 🛠️ Play Again
+
+#### Description
+After a game ends, offer the player a clean way to start another round.
+
+#### Requirements
+Completed program should:
+
+- Reset the hidden word and remaining attempts.
+- Preserve the player's score across rounds.
