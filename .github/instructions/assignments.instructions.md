@@ -4,4 +4,4 @@ applyTo: "assignments/**/*.md"
 ---
 # Assignment Markdown Structure Guidelines
 
-All assignment markdown files should follow the structure in `templates/assignment-template.md`. The assignment must be a `README.md` file, must not remove required sections, and must use the template's exact section icons.
+All assignment markdown files should follow the structure in `templates/assignment-template.md`. The assignment must be a `README.md` file, must not remove required sections, and must use the template's exact section icons. Keep each task focused on one measurable outcome.
